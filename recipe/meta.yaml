@@ -11,7 +11,7 @@ source:
   sha256: 98d70e107d08cc306148f6b759ea95606d2d20491ec1cffe9749d0985b6fd9ce
 
 build:
-  number: 0
+  number: 1000
   skip: True  # [py3k]
   script: python -m pip install --no-deps --ignore-installed .
 
